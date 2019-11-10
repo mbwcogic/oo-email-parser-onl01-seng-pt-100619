@@ -20,5 +20,5 @@ class EmailAddressParser
       @emails = emails 
   end 
 
-
+  
 end
